@@ -1,6 +1,6 @@
-taxonName;taxon;taxcode
-xenopholis scalaris;rep;sp1
-xenopholis undulatus;rep;sp2
-xenopholis werdingorum;rep;sp3
-xenopholis braconnieri;rep;sp4
-xenopholis prosopis;rep;sp5
+TaxoName; Taxon; TaxCode
+Xenopholis scalaris; rep; Sp1
+Xenopholis undulatus; rep; Sp2
+Xenopholis werdingorum; rep; Sp3
+Xenopholis braconnieri; rep; Sp4
+Xenopholis prosopis; rep; Sp5
